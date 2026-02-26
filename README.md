@@ -366,4 +366,4 @@ Database by MongoDB Atlas
 Backend framework by Express.js
 
 📞 Support
-For support, email: dmrkalhara1007@gmail.com or create an issue in the GitHub repository.
+For support, email: sewwandiedirisooriya318@gmail.com or create an issue in the GitHub repository.
